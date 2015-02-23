@@ -79,7 +79,7 @@
             
     }
 
-    
+    NSLog(@"%@",taskIDTF.stringValue);
  
 }
 
